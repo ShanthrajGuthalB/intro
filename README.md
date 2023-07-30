@@ -1,1 +1,19 @@
-# intro
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Naruto Anime Gallery</title>
+</head>
+<body>
+  <div class="wrapper run-animation" id="animate">
+    <div class="logo">
+      <span class="marvel">marvel</span>
+      <span class="studios">studios</span>
+    </div>
+  </div>
+  <div class="images"></div>
+  <script src="script.js"></script>
+</body>
+</html>
